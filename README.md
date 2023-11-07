@@ -4,9 +4,9 @@
 
 ## Forked version
 
-Updates include:
-- Stop typing after 3 attempts (for very slow LLM)
-- Bot 2 Bot conversation
+TODO:
+- [ ] Stop typing after 3 attempts (for very slow LLM)
+- [ ] Bot 2 Bot conversation
 
 ## Installation
 
