@@ -2,7 +2,13 @@
 
 **`oobabot`** is a Discord bot which talks to a Large Language Model AIs (like LLaMA, llama.cpp, etc...), running on [oobabooga's text-generation-webui](https://github.com/oobabooga/text-generation-webui).
 
-[![python lint and test with poetry](https://github.com/chrisrude/oobabot/actions/workflows/python-package.yml/badge.svg)](https://github.com/chrisrude/oobabot/actions/workflows/python-package.yml)
+[![python lint and test with poetry](https://github.com/matthewhand/oobabot/actions/workflows/python-package.yml/badge.svg)](https://github.com/matthewhand/oobabot/actions/workflows/python-package.yml)
+
+## Forked version
+
+Updates include:
+- Stop typing after 3 attempts (for very slow LLM)
+- Bot 2 Bot conversation
 
 ## Installation
 
